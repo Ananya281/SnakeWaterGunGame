@@ -1,6 +1,6 @@
 # Snake-Water-Gun Game
 
-This is Snake-Water-Gun game is developed in Python language.
+This is Snake-Water-Gun game developed in Python language.
 
 Snake Water Gun is a simple game played between two players, typically referred to as Player A and Player B. The game is also known by different names, such as Rock Paper Scissors. In this game, each player chooses one of three options: snake, water, or gun.
 The outcome of the game is determined by the rules:
