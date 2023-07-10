@@ -7,8 +7,11 @@ Snake Water Gun is a simple game played between two players, typically referred 
 The outcome of the game is determined by the rules:
 
 Snake beats Water: Snake drinks water, so Player A wins.
+
 Water beats Gun: Gun gets wet, so Player A wins.
+
 Gun beats Snake: Gun kills the snake, so Player B wins.
+
 If both players choose the same option, it's a tie.
 
-I have used the concepts such as randomisation, condition statements and functions in this program.
+I have used the concepts such as randomisation, conditional statements and functions in this program.
